@@ -547,6 +547,20 @@
 		Quest reward. Requires boss drops from Zul'Gurub and Honored with Zandalar Tribe.
 		</source>
 	</item>
+	
+		<item id="19849" phase="4">
+		<info name="Zandalar Demoniac's Mantle" type="CLOTH" slot="SHOULDERS" unique="no" req_lvl="60" item_lvl="61" quality="EPIC" boe="no" icon="Inv_shoulder_17.png"/>
+		<class_restriction class="WARLOCK"/>
+		<stats>
+			<stat type="ARMOR" value="71"/>
+			<stat type="INTELLECT" value="19"/>
+			<stat type="STAMINA" value="23"/>
+			<stat type="SPELL_DAMAGE" value="12"/>
+		</stats>
+		<source>
+		Quest reward. Requires boss drops from Zul'Gurub and Honored with Zandalar Tribe.
+		</source>
+	</item>
 
 	<item id="20061" phase="4">
 		<info name="Highlander's Epaulets" type="CLOTH" slot="SHOULDERS" unique="no" req_lvl="60" item_lvl="65" quality="EPIC" faction="ALLIANCE" boe="no" icon="Inv_shoulder_24.png"/>
