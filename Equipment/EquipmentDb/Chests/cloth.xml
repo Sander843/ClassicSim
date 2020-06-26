@@ -455,6 +455,20 @@
 		Quest reward. Requires boss drops from Zul'Gurub and Revered with Zandalar Tribe.
 		</source>
 	</item>
+	
+		<item id="20033" phase="4">
+		<info name="Zandalar Demoniac's Mantle" type="CLOTH" slot="CHEST" unique="no" req_lvl="60" item_lvl="65" quality="EPIC" boe="no" icon="Inv_chest_cloth_12.png"/>
+		<class_restriction class="WARLOCK"/>
+		<stats>
+			<stat type="ARMOR" value="100"/>
+			<stat type="STAMINA" value="35"/>
+ 			<stat type="SPELL_HIT_CHANCE" value="0.01"/>
+			<stat type="SPELL_DAMAGE" value="27"/>
+		</stats>
+		<source>
+		Quest reward. Requires boss drops from Zul'Gurub and Revered with Zandalar Tribe.
+		</source>
+	</item>
 
 	<item id="20635" phase="4">
 		<info name="Jade Inlaid Vestments" type="CLOTH" slot="CHEST" unique="no" req_lvl="60" item_lvl="71" quality="EPIC" boe="no" icon="Inv_chest_cloth_39.png"/>
