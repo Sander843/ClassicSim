@@ -183,6 +183,21 @@
 		Drops from Razorgore the Untamed in Blackwing Lair.
 		</source>
 	</item>
+	
+		<item id="19848" phase="4">
+		<info name="Zandalar Demoniac's Wraps" type="CLOTH" slot="WRIST" unique="no" req_lvl="60" item_lvl="61" quality="EPIC" boe="no" icon="Inv_bracer_07.png"/>
+		<class_restriction class="WARLOCK"/>
+		<stats>
+			<stat type="ARMOR" value="41"/>
+			<stat type="INTELLECT" value="8"/>
+			<stat type="STAMINA" value="15"/>
+			<stat type="SPELL_DAMAGE" value="16"/>
+		</stats>
+		<source>
+		Quest reward. Requires boss drops from Zul'Gurub and Friendly with Zandalar Tribe.
+		</source>
+	</item>
+
 
 	<item id="20626" phase="4">
 		<info name="Black Bark Wristbands" type="CLOTH" slot="WRIST" unique="no" req_lvl="60" item_lvl="71" quality="EPIC" boe="no" icon="Inv_bracer_07.png"/>
